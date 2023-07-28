@@ -1,6 +1,6 @@
 // import logo from './logo.svg';
-import './App.css';
-import Condicional from './components/Condicional';
+import "./App.css";
+import Condicional from "./components/Condicional";
 
 function App() {
   return (
